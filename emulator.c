@@ -178,5 +178,6 @@ int Emulate8080Op(State8080* state)
 
 int main(int argc, char** argv)
 {
+    // add code here to read in ROM and feed it to our emulator
     return 0;
 }
